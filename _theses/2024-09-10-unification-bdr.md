@@ -37,6 +37,10 @@ bdr-unification:
 }
 {% endhighlight %}
 
+## PDF
+
+[Link to PDF]({% link /assets/2024-unification-bdr.pdf %})
+
 ## Notes
 
 **Type:** Bachelor Thesis\
