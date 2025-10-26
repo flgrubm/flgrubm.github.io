@@ -39,7 +39,7 @@ bdr-unification:
 
 ## PDF
 
-[Link to PDF]({% link /assets/2024-unification-bdr.pdf %})
+[Link to PDF]({% link /assets/2024-bt-unification-bdr.pdf %})
 
 ## Notes
 
