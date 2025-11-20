@@ -20,7 +20,8 @@ bdr-unification:
   author: Grubmüller, Fabian Lukas
   date: 2024-09-10
   organization: Ludwig-Maximilians-Universität München
-  url: "https://flgrubm.github.io/theses/2024-09-10-bdr-unify.md"
+  serial-number:
+    doi: 10.5282/ubm/epub.125897
   note: Bachelor thesis
 {% endhighlight %}
 
@@ -33,11 +34,13 @@ bdr-unification:
     year = {2024},
     school = {Ludwig-Maximilians-Universit\"{a}t M\"{u}nchen},
     type = {Bachelor thesis},
-    note = {\url{https://flgrubm.github.io/theses/2024-09-10-bdr-unify.md}},
+    doi = {10.5282/ubm/epub.125897}
 }
 {% endhighlight %}
 
 ## PDF
+
+[Link to Open Access LMU](https://doi.org/10.5282/ubm/epub.125897)
 
 [Link to PDF]({% link /assets/2024-bt-unification-bdr.pdf %})
 
