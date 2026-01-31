@@ -1,0 +1,13 @@
+title: My personal website
+description: My personal website
+
+plugins:
+    - jekyll-redirect-from
+
+collections:
+    theses:
+        output: true
+        permalink: /:collection/:name
+    articles:
+        output: true
+        permalink: /:collection/:name
